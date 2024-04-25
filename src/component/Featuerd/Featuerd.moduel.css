@@ -1,0 +1,33 @@
+.rating__color
+{
+    color: #ddc408;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover{
+
+ transition: 1s;
+}
+
+.cartona
+{
+   border: 2px solid rgb(0, 0, 0);
+   border-radius: 50px;
+}
+.row
+.cartona
+{
+    background-color: rgb(200, 195, 195);
+}
+
+.Items
+{
+border: 1px solid rgba(3, 33, 57, 0.416);
+border-radius: 50px;
+}
